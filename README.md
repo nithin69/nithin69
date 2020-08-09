@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a TeamLead at Hallmark Solutions!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects and learn new technologies
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love playing games
 
 ### Connect with me:
 
