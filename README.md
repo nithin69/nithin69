@@ -1,10 +1,10 @@
 ### Hi there, I'm Nithin 👋
 
 ## I'm a Fullstack Developer!
-- 🔭 I’m currently working as a TeamLead at Hallmark Solutions!
+- 🔭 I’m currently working as a Senior Software developer at AumTelecom.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn new technologies
-- ⚡ Fun fact: I love playing games
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn new technologies
+- ⚡ Fun fact: I love playing games(Just for fun 🤣🤣🤣🤣🤣) 
 
 ### Connect with me:
 
